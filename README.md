@@ -1,1 +1,4 @@
-# M1BIBS-ana-seq
+# M1 BIBS 
+Analyse de Séquences
+Université Paris-Sud
+
