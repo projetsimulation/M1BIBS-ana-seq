@@ -1,4 +1,9 @@
 # M1 BIBS 
-Analyse de Séquences
-Université Paris-Sud
+
+## UE Analyse de Séquences
+
+## Université Paris-Sud
+
+Matériel de cours et d'exercices.
+
 
